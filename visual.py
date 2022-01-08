@@ -9,6 +9,7 @@ import seaborn as sns
 #Remove Warnings
 st.balloons()
 st.set_option('deprecation.showPyplotGlobalUse', False)
+st.title("Assignment From Nithin Jose")
 st.title("ForestFire_Dataset")
 
 #import dataset
